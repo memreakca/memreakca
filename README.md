@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Unity**
 
-- 🌱 I’m still learning (so much to learn 😁) **Unity , C#**
+- 🌱 I’m still learning (so much to learn 😁) **Unity , C#** 
 
 - 👨‍💻 All of my Games are available at [memreakca.itch.io](memreakca.itch.io)
 
