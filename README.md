@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehmet Emre</h1>
 <h3 align="center">A Unity Game Developer from Turkiye. Full Focused to Unity.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=memreakca" alt="memreakca" /></a> </p>
-
 - 🔭 I’m currently working on **Unity**
 
 - 🌱 I’m sitll learning **Unity , C#**
