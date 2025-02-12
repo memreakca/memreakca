@@ -5,7 +5,7 @@
 
 - 🌱 I’m still learning (so much to learn 😁) **Unity , C#** 
 
-- 👨‍💻 All of my Games are available at [memreakca.itch.io](memreakca.itch.io)
+- 👨‍💻 All of my Games are available at [memreakca.itch.io](https://memreakca.itch.io)
 
 - ⚡ Extra Fact **Gym Lover**
 
