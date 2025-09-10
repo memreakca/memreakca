@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mehmet Emre</h1>
 <h3 align="center">A Unity Game Developer from Turkiye. Full Focused to Unity.</h3>
 
-- 🔭 I’m currently working on **Unity**
+- 🔭 I’m currently working on  **Unity** and **ASP.NET Blazor**
 
-- 🌱 I’m still learning (so much to learn 😁) **Unity , C#** 
+- 🌱 Learning is endless (so much to learn 😁) **Unity , C# , ASP.NET , Blazor** 
 
 - 👨‍💻 All of my Games are available at [memreakca.itch.io](https://memreakca.itch.io)
 
