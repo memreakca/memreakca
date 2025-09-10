@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet Emre</h1>
-<h3 align="center">A Unity Game Developer from Turkiye. Full Focused to Unity.</h3>
+<h3 align="center">A Computer Engineer from Turkiye. Working on Unity and ASP.NET .</h3>
 
 - 🔭 I’m currently working on  **Unity** and **ASP.NET Blazor**
 
