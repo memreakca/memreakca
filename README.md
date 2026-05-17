@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mehmet Emre</h1>
-<h3 align="center">A Computer Engineer from Turkiye. Working on Unity and ASP.NET .</h3>
+<h1 align="center">Hi 👋, I'm Mehmet Emre AKCA</h1>
+<h3 align="center">A Computer Engineer from Turkiye .</h3>
 
-- 🔭 I’m currently working on  **Unity** and **ASP.NET Blazor**
+- 🔭 IT Technic Support Engineer At KARDEMİR A.Ş.
 
-- 🌱 Learning is endless (so much to learn 😁) **Unity , C# , ASP.NET , Blazor** 
+- 🌱 Still into **Unity** 
 
 - 👨‍💻 All of my Games are available at [memreakca.itch.io](https://memreakca.itch.io)
 
-- ⚡ Extra Fact **Gym Lover**
+- ⚡ **WE GO GYM!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
